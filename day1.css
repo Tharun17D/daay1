@@ -1,0 +1,59 @@
+.liT{
+background-color: blue;
+}
+.liC{background-color: aquamarine;
+
+}
+#M{
+    background-color: orange;
+}
+.M{
+    background-color: green;
+}
+.d4{
+    background-color: blueviolet;
+    text-align: center;
+}
+#s1{ font-size: 30px;
+    background-color: chocolate;
+    color: whitesmoke;
+}
+
+span{
+    background-color: rgb(204, 50, 53);
+    font-size: medium;
+    color: chartreuse;
+}
+.d5{
+    background-color: yellow;
+    height: 25px;
+}
+#s2{
+    font-size: larger;
+    color: beige;
+
+}
+table{
+    border: 0;
+    background-color: blanchedalmond;
+    .t1{
+        background-color: blueviolet;
+    }
+    th{
+        background-color: cadetblue;
+    }
+    td{
+        background-color: chocolate;
+    }
+    #t1{
+        background-color: aqua;
+        text-decoration: dashed;
+        color: whitesmoke;
+    }
+    #t2{
+        font-size: 25px;
+        background-color: chartreuse;
+        color: deeppink;
+    }
+
+}
